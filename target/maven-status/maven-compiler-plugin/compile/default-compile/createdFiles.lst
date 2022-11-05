@@ -1,0 +1,4 @@
+br\com\bragarodrigues\service\LoginService.class
+br\com\bragarodrigues\filter\LoginFilter.class
+br\com\bragarodrigues\bean\LoginBean.class
+br\com\bragarodrigues\model\User.class
